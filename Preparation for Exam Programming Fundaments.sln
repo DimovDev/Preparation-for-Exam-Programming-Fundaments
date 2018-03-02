@@ -3,25 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snowballs", "Snowballs\Snowballs.csproj", "{2984D1CF-040E-4041-8114-16FE785418AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Snowballs", "Snowballs\1.Snowballs.csproj", "{2984D1CF-040E-4041-8114-16FE785418AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snowmen", "Snowmen\Snowmen.csproj", "{22897907-253A-4FF5-9F1F-75A9770AB657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Snowmen", "Snowmen\2.Snowmen.csproj", "{22897907-253A-4FF5-9F1F-75A9770AB657}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni Coffee Orders", "SoftUni Coffee Orders\SoftUni Coffee Orders.csproj", "{1D8EC196-E2B6-4989-A207-21AD3354BBC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.SoftUni Coffee Orders", "SoftUni Coffee Orders\1.SoftUni Coffee Orders.csproj", "{1D8EC196-E2B6-4989-A207-21AD3354BBC3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3 – Rage Quit", "Problem 3 – Rage Quit\Problem 3 – Rage Quit.csproj", "{F561D3AC-5AEF-4740-9539-6536CDB25B78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3  Rage Quit", "Problem 3 – Rage Quit\3  Rage Quit.csproj", "{F561D3AC-5AEF-4740-9539-6536CDB25B78}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4. Files", "Problem 4. Files\Problem 4. Files.csproj", "{83574958-29F5-4E83-AC53-E93AEB203920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4  Files no to do", "Problem 4. Files\4  Files no to do.csproj", "{83574958-29F5-4E83-AC53-E93AEB203920}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command Interpreter", "Command Interpreter\Command Interpreter.csproj", "{F8BD4239-04C9-442C-A025-590AD5373303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 Command Interpreter", "Command Interpreter\2 Command Interpreter.csproj", "{F8BD4239-04C9-442C-A025-590AD5373303}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1. Poke Mon", "Problem 1. Poke Mon\Problem 1. Poke Mon.csproj", "{21F0261C-709A-41B2-A631-EC667ACD750D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 Poke Mon", "Problem 1. Poke Mon\1 Poke Mon.csproj", "{21F0261C-709A-41B2-A631-EC667ACD750D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Pokemon Don’t Go", "2. Pokemon Don’t Go\2. Pokemon Don’t Go.csproj", "{7E2C2E59-7159-4E92-B45B-043AC40634F4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Regexmon", "3. Regexmon\3. Regexmon.csproj", "{6CEB26BF-FE1D-44BC-B463-8F4F2C3144CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Regexmon to do", "3. Regexmon\3. Regexmon to do.csproj", "{6CEB26BF-FE1D-44BC-B463-8F4F2C3144CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers", "1. Numbers\1. Numbers.csproj", "{CCE09B8F-3778-4A82-AC95-B675CFD4CBC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Numbers", "1. Numbers\1. Numbers.csproj", "{CCE09B8F-3778-4A82-AC95-B675CFD4CBC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 Football Standings", "3 Football Standings\3 Football Standings.csproj", "{E1D5FCAA-2E3C-403E-9B72-5E4C1F7A1B6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Trifon’s Quest to do", "4. Trifon’s Quest\4. Trifon’s Quest to do.csproj", "{3DF9E2E2-E5BF-4F0E-A4CA-B58A5AB3A174}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Charity Marathon", "1. Charity Marathon\1. Charity Marathon.csproj", "{C10FDF84-DEBA-458E-97FC-36F4393BE4B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Ladybugs", "2. Ladybugs\2. Ladybugs.csproj", "{55B23796-B3FB-4926-9567-9D948DEF1FBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nether Realms to do", "Nether Realms\Nether Realms to do.csproj", "{836D00C4-9D5B-4D3B-B5C3-CB298EC712D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Roli - The Coder to do", "4. Roli - The Coder\4. Roli - The Coder to do.csproj", "{86E6793C-BC04-463E-8E46-648E8EE369A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 – Snowflake", "3 – Snowflake\3 – Snowflake.csproj", "{32350375-0962-4DC3-ABED-01558A35254A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 – Snowwhite", "4 – Snowwhite\4 – Snowwhite.csproj", "{31CB31CE-E147-41DC-9235-C1A723A5B220}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +85,38 @@ Global
 		{CCE09B8F-3778-4A82-AC95-B675CFD4CBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE09B8F-3778-4A82-AC95-B675CFD4CBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE09B8F-3778-4A82-AC95-B675CFD4CBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D5FCAA-2E3C-403E-9B72-5E4C1F7A1B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D5FCAA-2E3C-403E-9B72-5E4C1F7A1B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D5FCAA-2E3C-403E-9B72-5E4C1F7A1B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D5FCAA-2E3C-403E-9B72-5E4C1F7A1B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF9E2E2-E5BF-4F0E-A4CA-B58A5AB3A174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF9E2E2-E5BF-4F0E-A4CA-B58A5AB3A174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF9E2E2-E5BF-4F0E-A4CA-B58A5AB3A174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF9E2E2-E5BF-4F0E-A4CA-B58A5AB3A174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10FDF84-DEBA-458E-97FC-36F4393BE4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10FDF84-DEBA-458E-97FC-36F4393BE4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10FDF84-DEBA-458E-97FC-36F4393BE4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10FDF84-DEBA-458E-97FC-36F4393BE4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B23796-B3FB-4926-9567-9D948DEF1FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B23796-B3FB-4926-9567-9D948DEF1FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B23796-B3FB-4926-9567-9D948DEF1FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B23796-B3FB-4926-9567-9D948DEF1FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836D00C4-9D5B-4D3B-B5C3-CB298EC712D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836D00C4-9D5B-4D3B-B5C3-CB298EC712D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836D00C4-9D5B-4D3B-B5C3-CB298EC712D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836D00C4-9D5B-4D3B-B5C3-CB298EC712D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E6793C-BC04-463E-8E46-648E8EE369A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E6793C-BC04-463E-8E46-648E8EE369A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E6793C-BC04-463E-8E46-648E8EE369A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E6793C-BC04-463E-8E46-648E8EE369A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32350375-0962-4DC3-ABED-01558A35254A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32350375-0962-4DC3-ABED-01558A35254A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32350375-0962-4DC3-ABED-01558A35254A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32350375-0962-4DC3-ABED-01558A35254A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31CB31CE-E147-41DC-9235-C1A723A5B220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CB31CE-E147-41DC-9235-C1A723A5B220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CB31CE-E147-41DC-9235-C1A723A5B220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CB31CE-E147-41DC-9235-C1A723A5B220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,19 +11,29 @@ namespace Snowmen
             List<int> snowmen = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
             while (snowmen.Count != 1)
             {
-               int attacker = snowmen.Last();
-                int target = snowmen[0];
-                int difference = Math.Abs(attacker - target);
-                if (difference %2 ==0)
+                foreach (var item in snowmen)
                 {
-                    snowmen.Remove(target);
+                    int index = snowmen[item];
+                    int attacker = snowmen[index - item];
+                    int target = snowmen[item];
+                    int difference = Math.Abs(attacker - target);
+                    NewMethod(snowmen, attacker, target, difference);
                 }
-                else
-                {
-                    snowmen.Remove(attacker);
-                }
+
             }
 
+        }
+
+        private static void NewMethod(List<int> snowmen, int attacker, int target, int difference)
+        {
+            if (difference % 2 == 0)
+            {
+                snowmen.Remove(target);
+            }
+            else
+            {
+                snowmen.Remove(attacker);
+            }
         }
     }
 }
